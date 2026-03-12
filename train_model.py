@@ -17,4 +17,6 @@ model = RandomForestRegressor()
 model.fit(X_train, y_train)
 
 # Save model
-joblib.dump(model, "trained_model.pkl")
+import os
+os.makedirs("ml_model", exist_ok=True)
+joblib.dump(model, "ml_model/trained_model.pkl")
