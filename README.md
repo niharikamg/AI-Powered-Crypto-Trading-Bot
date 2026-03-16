@@ -97,8 +97,5 @@ POST /trade
 
 ---
 
-💡 **Author:** [Your Name]  
-🔗 **GitHub:** [Your GitHub Link]  
-📧 **Contact:** [Your Email]  
 
 🚀 **Like this project? Star it on GitHub!** ⭐  
